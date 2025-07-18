@@ -1,0 +1,11 @@
+{
+  "orgId": "team_default",
+  "projectId": "alquileres-pwa",
+  "settings": {
+    "framework": "nextjs",
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "devCommand": "npm run dev",
+    "installCommand": "npm install"
+  }
+}
